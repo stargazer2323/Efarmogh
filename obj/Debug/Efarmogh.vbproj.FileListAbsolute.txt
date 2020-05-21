@@ -1,0 +1,12 @@
+C:\Users\george\source\repos\Efarmogh\Efarmogh\bin\Debug\Efarmogh.exe.config
+C:\Users\george\source\repos\Efarmogh\Efarmogh\bin\Debug\Efarmogh.exe
+C:\Users\george\source\repos\Efarmogh\Efarmogh\bin\Debug\Efarmogh.pdb
+C:\Users\george\source\repos\Efarmogh\Efarmogh\bin\Debug\Efarmogh.xml
+C:\Users\george\source\repos\Efarmogh\Efarmogh\obj\Debug\Efarmogh.vbprojResolveAssemblyReference.cache
+C:\Users\george\source\repos\Efarmogh\Efarmogh\obj\Debug\Efarmogh.Form1.resources
+C:\Users\george\source\repos\Efarmogh\Efarmogh\obj\Debug\Efarmogh.Resources.resources
+C:\Users\george\source\repos\Efarmogh\Efarmogh\obj\Debug\Efarmogh.vbproj.GenerateResource.Cache
+C:\Users\george\source\repos\Efarmogh\Efarmogh\obj\Debug\Efarmogh.vbproj.CoreCompileInputs.cache
+C:\Users\george\source\repos\Efarmogh\Efarmogh\obj\Debug\Efarmogh.exe
+C:\Users\george\source\repos\Efarmogh\Efarmogh\obj\Debug\Efarmogh.xml
+C:\Users\george\source\repos\Efarmogh\Efarmogh\obj\Debug\Efarmogh.pdb
